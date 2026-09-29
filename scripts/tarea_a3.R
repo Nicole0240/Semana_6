@@ -10,7 +10,7 @@
  #' Fuente: Instituto Nacional de Estadísticas (INE)
  #' Encuesta: Encuesta Nacional de Empleo (ENE)
  #' Trimestre móvil: mayo-junio-julio de 2026 (mjj)
- #' Fecha de descarga: 22.09-2026
+ #' Fecha de descarga: 22-09-2026
  #' Fuente: https://www.ine.gob.cl/estadisticas-por-tema/mercado-laboral/ocupacion-y-desocupacion
  #' 
  #' Pregunta: ¿Se asocia la categoría de ocupación con las horas efectivamente 
